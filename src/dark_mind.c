@@ -3388,7 +3388,7 @@ static void sub_081050E8(struct Object *r5, u8 r7)
     EffectObjectInitSprite(r4, &r4->sprite, gUnk_08357250[r7], 0x398, r7 + 4, 27);
     r4->sprite.unk8 |= 0x80;
     r4->sprite.palId = 0; // redundant
-    Macro_081050E8(r4, &r4->sprite, 0x398, 1);
+    Macro_081050E8(r4, &r4->sprite, 0x398, 0, 1);
     r4->unk8 = r7;
     switch (r4->unk8)
     {
@@ -3436,7 +3436,7 @@ static void sub_08105278(void)
         return;
     }
     Macro_08107BA8_4(r5, &r5->sprite, &sprite, gUnk_08357250[r5->unk8], &r5->sprite);
-    Macro_081050E8(r5, &r5->sprite, 0x398, !r5->sprite.palId);
+    Macro_081050E8(r5, &r5->sprite, 0x398, 0, !r5->sprite.palId);
     r3 = r5->parent;
     if (r3)
     {
@@ -3526,7 +3526,7 @@ static struct EffectObject *sub_081055B8(struct Object *r5)
         r4->flags |= 1;
     EffectObjectInitSprite(r4, &r4->sprite, 30, 0x39A, 0, 25);
     r4->sprite.palId = 0; // redundant
-    Macro_081050E8(r4, &r4->sprite, 0x139A, 1);
+    Macro_081050E8(r4, &r4->sprite, 0x139A, 0, 1);
     return r4;
 }
 
@@ -3547,7 +3547,7 @@ static void sub_08105698(void)
         return;
     }
     Macro_08107BA8_4(r5, &r5->sprite, &sprite, 0x1E, &r5->sprite);
-    Macro_081050E8(r5, &r5->sprite, 0x139A, !r5->sprite.palId);
+    Macro_081050E8(r5, &r5->sprite, 0x139A, 0, !r5->sprite.palId);
     r3 = r5->parent;
     if (r3)
     {
@@ -4048,7 +4048,7 @@ static void sub_081069BC(struct Object *star)
         if (!(star2->base.flags & 1)) r4->flags |= 1;
         EffectObjectInitSprite(r5, &r5->sprite, 0x10, 0x399, ((star->type - OBJ_DARK_MIND_STAR_FIRE) << 1) + 1, 27);
         r4->sprite.palId = 0; // redundant
-        Macro_081050E8(r4, &r4->sprite, 0x399, 1);
+        Macro_081050E8(r4, &r4->sprite, 0x399, 0, 1);
     }
 }
 
@@ -4079,7 +4079,7 @@ static void sub_08106AD0(struct Object *r5)
                 : r6->type - OBJ_DARK_MIND_STAR_FIRE) << 1) + 1;
         EffectObjectInitSprite(r4, &r4->sprite, 0x10, 0x399, var, 27);
         r4->sprite.palId = 0; // redundant
-        Macro_081050E8(r4, &r4->sprite, 0x399, 1);
+        Macro_081050E8(r4, &r4->sprite, 0x399, 0, 1);
         r4->unk4 = 1;
     }
 }
@@ -4119,7 +4119,7 @@ static void sub_08106BE0(void)
         return;
     }
     Macro_08107BA8_4(r6, &r6->sprite, &sprite, 0x10, &r6->sprite);
-    Macro_081050E8(r6, &r6->sprite, 0x398, !r6->sprite.palId);
+    Macro_081050E8(r6, &r6->sprite, 0x398, 0, !r6->sprite.palId);
     r6->flags |= 4;
     r6->flags &= ~1;
     r6->flags |= (r7->base.flags ^ 1) & 1;
@@ -4394,7 +4394,7 @@ static struct ObjectBase *sub_08107A48(struct Object *r4)
     ObjectSetBounds(r5, -4, -4, 4, 8);
     ObjectBaseInitSprite(r5, &r5->sprite, 0x10, 0x2C3, 3, 26);
     r5->sprite.palId = 0;
-    Macro_081050E8(r5, &r5->sprite, 0x2C3, 1);
+    Macro_081050E8(r5, &r5->sprite, 0x2C3, 0, 1);
     gUnk_0203AD34 = 1;
     return r5;
 }
@@ -4406,7 +4406,7 @@ static void sub_08107BA8(void)
     struct Object *r8 = r5->parent;
 
     Macro_08107BA8_4(r5, &r5->sprite, &sprite, 0x10, &r5->sprite);
-    Macro_081050E8(r5, &r5->sprite, 0x2C3, !r5->sprite.palId);
+    Macro_081050E8(r5, &r5->sprite, 0x2C3, 0, !r5->sprite.palId);
     if (r8->base.flags & 0x1000 || r8->base.roomId == 0xFFFF)
         r5->roomId = 0xFFFF;
     if (!ObjectPreUpdate(r5))
@@ -4471,7 +4471,7 @@ static void sub_08107ED4(struct ObjectBase *r4)
     r5->y -= 0x2800;
     EffectObjectInitSprite(r5, &r5->sprite, 20, gUnk_083572D0[gLanguage][0], gUnk_083572D0[gLanguage][1], 1);
     r5->sprite.palId = 0;
-    Macro_081050E8(r5, &r5->sprite, 0x2C3, 1);
+    Macro_081050E8(r5, &r5->sprite, 0x2C3, 0, 1);
 }
 
 static void sub_08107FC4(void)
@@ -4488,7 +4488,7 @@ static void sub_08107FC4(void)
     else
     {
         Macro_08107BA8_4(r5, &r5->sprite, &sprite, 0x14, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x2C3, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x2C3, 0, !r5->sprite.palId);
         r3 = r5->parent;
         if (r3)
         {
@@ -4530,7 +4530,7 @@ static void sub_08108280(struct Object *r5)
     EffectObjectInitSprite(r4, &r4->sprite, 0x30, 0x399, 15, 25);
     r4->sprite.palId = 0;
     r4->unk4 = 14;
-    Macro_081050E8(r4, &r4->sprite, 0x39A, !r4->sprite.palId);
+    Macro_081050E8(r4, &r4->sprite, 0x39A, 0, !r4->sprite.palId);
 }
 
 static void sub_08108368(void)
@@ -4546,7 +4546,7 @@ static void sub_08108368(void)
     else
     {
         Macro_08107BA8_4(r6, &r6->sprite, &sprite, 0x30, &r6->sprite);
-        Macro_081050E8(r6, &r6->sprite, 0x39A, !r6->sprite.palId);
+        Macro_081050E8(r6, &r6->sprite, 0x39A, 0, !r6->sprite.palId);
         Macro_0809E55C(r6);
         r6->x = r7->base.x;
         r6->y = r7->base.y;
@@ -4585,7 +4585,7 @@ static void sub_08108960(struct Object *r4)
     EffectObjectInitSprite(r5, &r5->sprite, 0x30, 0x399, 14, 25);
     r5->sprite.palId = 0;
     r5->unk4 = 14;
-    Macro_081050E8(r5, &r5->sprite, 0x39A, !r5->sprite.palId);
+    Macro_081050E8(r5, &r5->sprite, 0x39A, 0, !r5->sprite.palId);
 }
 
 static void sub_08108A50(void)
@@ -4601,7 +4601,7 @@ static void sub_08108A50(void)
     else
     {
         Macro_08107BA8_4(r6, &r6->sprite, &sprite, 0x30, &r6->sprite);
-        Macro_081050E8(r6, &r6->sprite, 0x39A, !r6->sprite.palId);
+        Macro_081050E8(r6, &r6->sprite, 0x39A, 0, !r6->sprite.palId);
         Macro_0809E55C(r6);
         r6->x = r7->base.x;
         r6->y = r7->base.y;
@@ -4663,7 +4663,7 @@ static struct EffectObject *sub_08109304(struct Object *sp10, u8 sp08)
     if (sp08) sp0C = 17;
     EffectObjectInitSprite(r4, &r4->sprite, 4, 0x399, sp0C, 0x18);
     r4->sprite.palId = 0;
-    Macro_081050E8(r4, &r4->sprite, 0x39A, 1);
+    Macro_081050E8(r4, &r4->sprite, 0x39A, 0, 1);
     return r4;
 }
 
@@ -4687,7 +4687,7 @@ static void sub_081094C4(void)
     else
     {
         Macro_08107BA8_4(r6, &r6->sprite, &sprite, 4, &r6->sprite);
-        Macro_081050E8(r6, &r6->sprite, 0x39A, !r6->sprite.palId);
+        Macro_081050E8(r6, &r6->sprite, 0x39A, 0, !r6->sprite.palId);
         r6->roomId = sp28->base.roomId;
         if (Macro_0810B1F4(&sp28->base)
             && !(sp28->base.flags & 0x2000))
@@ -9161,7 +9161,7 @@ static void sub_08111B88(struct Object *r5)
     r4->roomId = r5->base.roomId;
     EffectObjectInitSprite(r4, &r4->sprite, 0xC, 0x399, 0x26, 0x17);
     r4->sprite.palId = 0;
-    Macro_081050E8(r4, &r4->sprite, 0x39A, TRUE);
+    Macro_081050E8(r4, &r4->sprite, 0x39A, 0, TRUE);
 }
 
 static void sub_08111C5C(void)
@@ -9178,7 +9178,7 @@ static void sub_08111C5C(void)
     {
         r5->flags |= 4;
         Macro_08107BA8_4(r5, &r5->sprite, &spr, 12, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x39A, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x39A, 0, !r5->sprite.palId);
         r5->roomId = r7->base.roomId;
         r5->x = r7->base.x;
         if (r7->unk83 != 1)
@@ -9237,7 +9237,7 @@ static struct EffectObject *sub_08111EF4(struct DarkMindForm2 *r6)
     }
     EffectObjectInitSprite(r4, &r4->sprite, 0x24, 0x399, 0x2B, 8);
     r4->sprite.palId = 0;
-    Macro_081050E8(r4, &r4->sprite, 0x39A, TRUE);
+    Macro_081050E8(r4, &r4->sprite, 0x39A, 0, TRUE);
     r4->unk4 = 0x20;
     return r4;
 }
@@ -9255,7 +9255,7 @@ static void sub_08112024(void)
     else
     {
         Macro_08107BA8_4(r5, &r5->sprite, &spr, 0x24, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x39A, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x39A, 0, !r5->sprite.palId);
         r5->roomId = r8->base.roomId;
         r3 = r5->parent;
         if (r3)
@@ -9300,7 +9300,7 @@ static struct EffectObject *sub_081122A0(struct Object *r6, u8 sb)
     r4->sprite.palId = 0;
     if (sb)
         r4->flags |= 1;
-    Macro_081050E8(r4, &r4->sprite, 0x39A, !r4->sprite.palId);
+    Macro_081050E8(r4, &r4->sprite, 0x39A, 0, !r4->sprite.palId);
     r4->unk4 = 0x20;
     if (r4->flags & 1)
         r4->x = r6->base.x - 0x1400;
@@ -9323,7 +9323,7 @@ static void sub_081123CC(void)
     else
     {
         Macro_08107BA8_4(r5, &r5->sprite, &spr, 9, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x39A, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x39A, 0, !r5->sprite.palId);
         r5->roomId = r8->base.roomId;
         if (r8->unk83 != 1)
             r5->flags |= 0x400;
@@ -9390,7 +9390,7 @@ static struct EffectObject *sub_081126C0(struct DarkMindForm2 *sb, u8 sp08)
     r6->sprite.palId = 0;
     if (sp08)
         r6->flags |= 1;
-    Macro_081050E8(r6, &r6->sprite, 0x39A, !r6->sprite.palId);
+    Macro_081050E8(r6, &r6->sprite, 0x39A, 0, !r6->sprite.palId);
     if (r6->flags & 1)
         r6->x = sb->unk0.base.x - 0x1400;
     else
@@ -9420,7 +9420,7 @@ static void sub_08112880(void)
         return;
     }
     Macro_08107BA8_4(r5, &r5->sprite, &sprite, 1, &r5->sprite);
-    Macro_081050E8(r5, &r5->sprite, 0x39A, !r5->sprite.palId);
+    Macro_081050E8(r5, &r5->sprite, 0x39A, 0, !r5->sprite.palId);
     r5->roomId = sp28->base.roomId;
     if (Macro_0810B1F4(&sp28->base)
         && !(sp28->base.flags & 0x2000))
@@ -11489,7 +11489,7 @@ static struct EffectObject *sub_081171BC(struct DarkMindTrigger *r5)
     r4->roomId = r5->unk0.base.roomId;
     EffectObjectInitSprite(r4, &r4->sprite, 42, 0x39C, 2, 26);
     r4->sprite.palId = 0;
-    Macro_081050E8(r4, &r4->sprite, 0x39C, 1);
+    Macro_081050E8(r4, &r4->sprite, 0x39C, 0, 1);
     return r4;
 }
 
@@ -11506,7 +11506,7 @@ static void sub_08117298(void)
     else
     {
         Macro_08107BA8_4(r5, &r5->sprite, &sprite, 42, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x39C, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x39C, 0, !r5->sprite.palId);
         r5->flags &= ~0x405;
         r5->flags |= r7->base.flags & 0x404;
         r5->flags |= (r7->base.flags ^ 1) & 1;
@@ -11834,7 +11834,7 @@ static void sub_08118220(struct DarkMindTrigger *r5, u8 r6)
     r4->unk8 = r6;
     EffectObjectInitSprite(r4, &r4->sprite, 2, 0x389, 2, 0);
     r4->sprite.palId = 0;
-    Macro_081050E8(r4, &r4->sprite, 0x389, 1);
+    Macro_081050E8(r4, &r4->sprite, 0x389, 0, 1);
 }
 
 static void sub_08118310(void)
@@ -11870,7 +11870,7 @@ static void sub_08118310(void)
         }
         Macro_0809E55C(r5);
         Macro_08107BA8_4(r5, &r5->sprite, &sprite, 2, &r5->sprite);
-        Macro_081050E8(r5, &r5->sprite, 0x389, !r5->sprite.palId);
+        Macro_081050E8(r5, &r5->sprite, 0x389, 0, !r5->sprite.palId);
         switch (r5->unk8)
         {
         default:
