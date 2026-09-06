@@ -97,8 +97,8 @@ static void sub_080A4B68(struct Object* arg0) {
     arg0->base.counter++;
 }
 
-static void BigWaddleDeeChooseXSpeed0(struct Object* arg0) {
-    ObjectSetFunc(arg0, 0, BigWaddleDeeReverseX);
+static void BigWaddleDeeChooseXSpeed0(struct Object* arg0) {//This function is called with the first big waddle dees. I suspect essentially every
+    ObjectSetFunc(arg0, 0, BigWaddleDeeReverseX);           //big waddle dee is going to use this instead of ChooseXSpeed1 or 2, but I'm not certain.
     switch (arg0->subtype) {
     case 0:
         arg0->base.xspeed = 0x80;

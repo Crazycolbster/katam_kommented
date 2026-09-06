@@ -1,0 +1,11 @@
+-iquote
+include
+-I
+tools/agbcc/include
+-I
+tools/agbcc
+-nostdinc
+-DMODERN=0
+-DREVISION=0
+-DENGLISH
+-Wno-trigraphs
