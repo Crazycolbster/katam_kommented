@@ -10,7 +10,7 @@ struct Background {
     u16 filler8;
     u16 unkA;
     u32 tilemapVram;
-    u32 unk10;
+    uintptr_t unk10;
     u16 unk14;
     u16 unk16;
     u16 unk18;

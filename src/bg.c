@@ -33,7 +33,7 @@ void sub_08153060(struct Background *r4) {
         }
         r4->unk2E ^= 0x10;
     }
-    r4->unk10 = (u32)r6->unk0.tilemap;
+    r4->unk10 = (uintptr_t)r6->unk0.tilemap;
     if (r4->unk2E & 0x40) { // Can we actually trigger this condition?
         r4->unk38 = r6->unk1C;
         r4->unk3C = r6->unk20;
