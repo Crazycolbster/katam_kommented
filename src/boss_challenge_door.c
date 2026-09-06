@@ -6,7 +6,7 @@
 #include "task.h"
 #include "code_0806F780.h"
 
-static void sub_08118C18(struct BossChallengeDoor *);
+void sub_08118C18(struct BossChallengeDoor *);
 static void sub_08118D80(struct BossChallengeDoor *);
 static void sub_08119094(struct BossChallengeDoor *);
 static void sub_08119184(struct BossChallengeDoor *);
@@ -35,7 +35,7 @@ void *CreateBossChallengeDoor(struct ObjectTemplate *template, u8 a2) {
     return door;
 }
 
-static void sub_08118C18(struct BossChallengeDoor *door) {
+void sub_08118C18(struct BossChallengeDoor *door) {
     s32 bossIdx;
     struct EffectObject *sign;
     struct BossChallengeDoor *d2;
@@ -101,7 +101,7 @@ static void sub_08118D80(struct BossChallengeDoor *door) {
         touched = FALSE;
         for (i = 0; i < gNumHumanPlayers; i++) {
             struct Kirby *kirby = &gKirbys[i];
-    
+
             if (level->currentRoom != gCurLevelInfo[i].currentRoom)
                 continue;
             if (!(kirby->movementState & 0x40))
@@ -159,20 +159,20 @@ static void sub_08119094(struct BossChallengeDoor *door) {
 
             steps &= 0xF;
             while (steps != 0xFFFF) {
-                    while (1) {
-                        cur++;
-                        if (cur != 0xC) {
-                            if (*ptr & (1 << cur)) {
-                                do {
-                                    cur++;
-                                } while (cur != 0xC && (*ptr & (1 << cur)));
-                            }
-                            if (cur != 0xC)
-                                break;
+                while (1) {
+                    cur++;
+                    if (cur != 0xC) {
+                        if (*ptr & (1 << cur)) {
+                            do {
+                                cur++;
+                            } while (cur != 0xC && (*ptr & (1 << cur)));
                         }
-                        cur = 0;
+                        if (cur != 0xC)
+                            break;
                     }
-                    steps = steps - 1;
+                    cur = 0;
+                }
+                steps = steps - 1;
             }
             field = cur;
         }

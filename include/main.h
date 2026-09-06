@@ -97,7 +97,7 @@ extern struct Unk_030023F4 gUnk_030023F4;
 
 extern u32 gMainFlags;
 
-extern u8 gUnk_03002450[];
+extern u8 gUnk_03002450[0x20];
 extern FuncType_030068C0 gUnk_03002470[4];
 extern u16 gUnk_03002480;
 extern u8* gUnk_03002484;
@@ -177,7 +177,7 @@ extern u8 gUnk_03006070;
 extern u16 gUnk_03006074;
 extern u8 gUnk_03006078;
 extern u8 gUnk_0300607C;
-extern u8 gUnk_03006080[];
+extern u8 gUnk_03006080[0x20];
 extern union Unk_030060A0 gUnk_030060A0;
 extern u16 gOamBuffer[];
 extern u8 gUnk_030068B0;

@@ -106,9 +106,9 @@ void GameInit(void) {
     DmaWait(3);
     DmaFill16(3, 0x200, gUnk_030031C0, 0x400);
     DmaWait(3);
-    DmaFill32(3, ~0, gUnk_03002450, 0x20);
+    DmaFill32(3, ~0, gUnk_03002450, sizeof(gUnk_03002450));
     DmaWait(3);
-    DmaFill32(3, ~0, gUnk_03006080, 0x20);
+    DmaFill32(3, ~0, gUnk_03006080, sizeof(gUnk_03006080));
     DmaWait(3);
     DmaFill32(3, 0, gObjPalette, OBJ_PLTT_SIZE);
     DmaWait(3);
