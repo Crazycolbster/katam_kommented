@@ -71,7 +71,6 @@ static void sub_08118D80(struct BossChallengeDoor *door) {
     u16 i;
     u16 j;
     bool32 touched = FALSE;
-    const u16 *panim;
     u8 sp28, sp29;
 
     d2 = door;
