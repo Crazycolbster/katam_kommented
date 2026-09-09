@@ -1,0 +1,3502 @@
+[
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0801C6F8.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0801C6F8.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/dark_meta_knight.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/dark_meta_knight.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/fire.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/fire.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_boot.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_boot.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/noddy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/noddy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/blipper.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/blipper.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/dark_mind.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/dark_mind.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/treasures.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/treasures.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/batty.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/batty.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/king_golem.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/king_golem.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bronto_burt.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bronto_burt.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/blockin.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/blockin.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/cannon_fuse.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/cannon_fuse.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_08019F28.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_08019F28.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sound_test_debug.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sound_test_debug.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/input_recorder.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/input_recorder.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_08030C94.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_08030C94.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/mirra.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/mirra.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/mega_titan.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/mega_titan.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/master_sword.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/master_sword.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/warp_star_data.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/warp_star_data.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sio32_multi_load.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sio32_multi_load.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/glunk.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/glunk.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sir_kibble.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sir_kibble.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/special_doors.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/special_doors.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/gordo.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/gordo.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/trig.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/trig.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/scroll_lock.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/scroll_lock.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/wheelie.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/wheelie.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/boxin.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/boxin.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_08138D64.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_08138D64.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/jack.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/jack.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_08026044.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_08026044.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/waddle_doo.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/waddle_doo.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/special_hub_mirror.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/special_hub_mirror.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/foley.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/foley.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bang_bang.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bang_bang.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/snooter.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/snooter.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0800E0E4.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0800E0E4.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0814F274.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0814F274.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/m4a.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/m4a.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/level.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/level.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/pause_help.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/pause_help.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0800ECAC_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0800ECAC_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/twister.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/twister.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sparky.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sparky.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/subgames.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/subgames.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/flame_column.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/flame_column.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/vert_sliding_door.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/vert_sliding_door.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_080023A4.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_080023A4.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0814A828.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0814A828.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/batafire.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/batafire.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/shooty.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/shooty.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/task.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/task.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_boot_util.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_boot_util.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bomber.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bomber.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/star_platform.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/star_platform.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/hammer_peg.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/hammer_peg.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0801DA58.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0801DA58.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/pause_fade.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/pause_fade.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/waddle_dee.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/waddle_dee.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/palette.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/palette.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/heavy_knight.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/heavy_knight.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bg.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bg.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/m4a_tables.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/m4a_tables.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/inhalable_star.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/inhalable_star.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/pause_world_map.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/pause_world_map.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/title_screen.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/title_screen.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/squishy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/squishy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/logo.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/logo.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/flamer.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/flamer.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/master_hand.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/master_hand.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_080332BC.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_080332BC.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/agb_sram.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/agb_sram.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/lever_wall.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/lever_wall.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0814EBE4.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0814EBE4.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/moley.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/moley.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sword_knight.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sword_knight.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/chip.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/chip.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_08032E98.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_08032E98.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/rocky.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/rocky.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/box_boxer.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/box_boxer.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/chest.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/chest.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/crazy_hand.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/crazy_hand.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/golem.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/golem.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/roly_poly.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/roly_poly.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/boss_challenge_door.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/boss_challenge_door.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_08020220.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_08020220.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/mr_frosty.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/mr_frosty.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/droppy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/droppy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/goal_game_bonus.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/goal_game_bonus.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0806F780.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0806F780.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/build_info.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/build_info.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/shard.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/shard.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/kirby.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/kirby.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/cupie.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/cupie.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/unknown_75.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/unknown_75.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bombar.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bombar.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/collection_room.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/collection_room.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/parasol.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/parasol.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/giant_rocky.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/giant_rocky.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/large_stone_block_7D.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/large_stone_block_7D.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bonkers.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bonkers.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/laser_ball.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/laser_ball.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/malloc_ewram.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/malloc_ewram.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/object.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/object.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/warp_star.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/warp_star.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/shadow_kirby.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/shadow_kirby.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/intro.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/intro.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/multi_sio.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/multi_sio.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/demo.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/demo.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/pause_area_map.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/pause_area_map.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/pengy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/pengy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/ufo.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/ufo.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/big_waddle_dee.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/big_waddle_dee.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/haley.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/haley.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/save.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/save.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/minny.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/minny.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/metal_guardian.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/metal_guardian.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/kracko.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/kracko.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/subgame_menu.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/subgame_menu.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/malloc_vram.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/malloc_vram.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/eight_dir_cannon.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/eight_dir_cannon.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_0800ECAC.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_0800ECAC.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/init.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/init.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/boxy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/boxy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/lava_wall.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/lava_wall.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/ability_objects.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/ability_objects.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/sprite.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/sprite.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/prank.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/prank.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/destroyable_rock_block.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/destroyable_rock_block.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/wiz.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/wiz.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/bonus.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/bonus.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/code_08123950.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/code_08123950.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/soarar.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/soarar.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/phan_phan.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/phan_phan.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/main.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/main.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/mirror_door.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/mirror_door.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/gobbler.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/gobbler.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/scarfy.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/scarfy.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/candy_constellation_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/candy_constellation_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/unused_bg.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/unused_bg.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/moonlight_mansion_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/moonlight_mansion_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/rainbow_route_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/rainbow_route_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/central_circle.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/central_circle.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/mustard_mountain_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/mustard_mountain_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/carrot_castle_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/carrot_castle_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/carrot_castle_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/carrot_castle_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/moonlight_mansion_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/moonlight_mansion_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/peppermint_palace_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/peppermint_palace_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/olive_ocean_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/olive_ocean_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/radish_ruins_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/radish_ruins_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/radish_ruins_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/radish_ruins_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/peppermint_palace_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/peppermint_palace_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/olive_ocean_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/olive_ocean_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/candy_constellation_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/candy_constellation_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/rainbow_route_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/rainbow_route_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/dimension_mirror_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/dimension_mirror_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/peppermint_palace_4.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/peppermint_palace_4.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/mustard_mountain_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/mustard_mountain_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/candy_constellation_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/candy_constellation_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/olive_ocean_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/olive_ocean_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/cabbage_cavern_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/cabbage_cavern_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/carrot_castle_4.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/carrot_castle_4.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/credits.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/credits.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/cabbage_cavern_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/cabbage_cavern_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/dimension_mirror_2.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/dimension_mirror_2.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/cabbage_cavern_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/cabbage_cavern_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/peppermint_palace_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/peppermint_palace_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/carrot_castle_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/carrot_castle_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/dimension_mirror_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/dimension_mirror_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/moonlight_mansion_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/moonlight_mansion_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/radish_ruins_3.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/radish_ruins_3.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/room_tiled_bgs/mustard_mountain_1.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/room_tiled_bgs/mustard_mountain_1.c"
+    ]
+  },
+  {
+    "directory": "/home/crazycolbster/Documents/Coding_Stuff/katam_Decompiled/katam",
+    "file": "src/data/pause_menu/areamap_rooms.c",
+    "arguments": [
+      "clang",
+      "-c",
+      "-iquote",
+      "include",
+      "-I",
+      "tools/agbcc/include",
+      "-I",
+      "tools/agbcc",
+      "-nostdinc",
+      "-DMODERN=0",
+      "-DREVISION=0",
+      "-DENGLISH",
+      "-Wno-trigraphs",
+      "src/data/pause_menu/areamap_rooms.c"
+    ]
+  }
+]

@@ -56,6 +56,16 @@ void* CreateBigWaddleDee(struct ObjectTemplate* arg0, u8 arg1) {
     return obj;
 }
 
+/**
+ * @brief (Guess) Seems to be a counter/acceleration function for BigWaddleDee
+ *
+ * This function is not called by anything. It either is just copy/paste filler or
+ * the function that calls it is still in assembly.
+ *
+ * @param arg0 Pointer to an object, presumably a Big Waddle dee
+ * @return Nothing, but the function itself updates flags.
+ */
+
 static void sub_080A4B68(struct Object* arg0) {
     if (arg0->base.flags & 1) {
         arg0->base.xspeed -= 5;
@@ -97,8 +107,18 @@ static void sub_080A4B68(struct Object* arg0) {
     arg0->base.counter++;
 }
 
-static void BigWaddleDeeChooseXSpeed0(struct Object* arg0) {//This function is called with the first big waddle dees. I suspect essentially every
-    ObjectSetFunc(arg0, 0, BigWaddleDeeReverseX);           //big waddle dee is going to use this instead of ChooseXSpeed1 or 2, but I'm not certain.
+/**
+ * @brief (Guess) Primary speed selector for BigWaddleDee
+ *
+ * This function is called with the first big waddle dees. I suspect essentially every
+ * big waddle dee is going to use this instead of ChooseXSpeed1 or 2, but I'm not certain.
+ *
+ * @param arg0 Pointer to an object, presumably a Big Waddle dee
+ * @return Nothing, but the function itself updates base.xspeed
+ */
+
+static void BigWaddleDeeChooseXSpeed0(struct Object* arg0) {
+    ObjectSetFunc(arg0, 0, BigWaddleDeeReverseX);           
     switch (arg0->subtype) {
     case 0:
         arg0->base.xspeed = 0x80;
