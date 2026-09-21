@@ -15,6 +15,12 @@ static void sub_080A4E20(struct Object*);
 static void sub_080A5030(struct Object*);
 static void sub_080A5054(struct Object*);
 
+/**
+ * @brief Animation info for a Big Waddle Dee.
+ * Value 1 is the AnimationID. 0x314 is presumably exclusively for Big Waddle Dees
+ * Value 2 is the Variant. We've got 5 variants.
+ * Value 3 is currently unknown.
+ */
 const struct AnimInfo gUnk_08353434[] = {//AnimationID, Variant, Unknown
     { 0x314, 0, 0 },
     { 0x314, 1, 0 },
