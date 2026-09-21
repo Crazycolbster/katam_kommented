@@ -15,7 +15,7 @@ static void sub_080A4E20(struct Object*);
 static void sub_080A5030(struct Object*);
 static void sub_080A5054(struct Object*);
 
-const struct AnimInfo gUnk_08353434[] = {
+const struct AnimInfo gUnk_08353434[] = {//AnimationID, Variant, Unknown
     { 0x314, 0, 0 },
     { 0x314, 1, 0 },
     { 0x314, 2, 0 },
