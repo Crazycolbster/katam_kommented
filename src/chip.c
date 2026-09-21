@@ -14,7 +14,6 @@ static void sub_080AB428(struct Object*);
 static void sub_080AB4A4(struct Object*);
 static void sub_080AB4F8(struct Object*);
 static void sub_080AB5F8(struct Object*);
-static void sub_080AB720(struct Object*);
 static void sub_080AB734(struct Object*);
 static void sub_080AB754(struct Object*);
 static u8 sub_080AB78C(struct Object*);
@@ -32,10 +31,10 @@ const struct AnimInfo gUnk_08353928[] = {
 };
 
 void* CreateChip(struct ObjectTemplate* arg0, u8 arg1) {
-    struct Object *obj, *obj2;
+    struct Object *obj, *tmp;
     struct Task *task = TaskCreate(ObjectMain, sizeof(struct Object), 0x1000, TASK_USE_EWRAM, ObjectDestroy);
-    obj2 = TaskGetStructPtr(task);
-    obj = obj2;
+    tmp = TaskGetStructPtr(task);
+    obj = tmp;
     InitObject(obj, arg0, arg1);
     if (obj->base.x > obj->kirby3->base.x) {
         obj->base.flags |= 1;
@@ -513,7 +512,7 @@ static void sub_080AB5F8(struct Object* arg0) {
     }
 }
 
-static void sub_080AB720(struct Object* arg0) {
+void sub_080AB720(struct Object* arg0) {
     ObjectSetFunc(arg0, 0, sub_080AB374);
 }
 
