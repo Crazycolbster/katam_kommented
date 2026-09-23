@@ -1,6 +1,18 @@
 #include "global.h"
 #include "data.h"
 
+/**
+* @brief The palete used by the Moonlight Mansion exterior background.
+*
+* This array holds every color the Moonlight Mansion background will
+* use. It doesn't hold any actual image info.
+*
+* Known:
+*
+* Unknown:
+* - Some values are OR'd with 0 and others are OR'd with 0x8000. 
+*   What does the 15th bit have to do with this function?
+*/
 static const u16 sMoonlightMansion1Palette[] = {
     RGB( 0,  0,  0) | 0x0000, RGB( 2,  8, 17) | 0x0000, RGB( 4,  8, 16) | 0x0000, RGB( 3,  8, 18) | 0x0000, RGB( 6,  8, 14) | 0x0000, RGB( 6, 10, 16) | 0x0000, RGB( 2, 11, 21) | 0x0000, RGB( 6, 13,  8) | 0x0000,
     RGB( 7, 11, 17) | 0x0000, RGB(11, 11, 11) | 0x0000, RGB( 2, 13, 25) | 0x0000, RGB( 8, 12, 19) | 0x0000, RGB(14, 13, 13) | 0x0000, RGB(10, 14, 20) | 0x0000, RGB(12, 16, 20) | 0x8000, RGB(17, 19, 21) | 0x8000,
@@ -20,9 +32,33 @@ static const u16 sMoonlightMansion1Palette[] = {
     RGB( 9, 12, 18) | 0x0000, RGB(13, 12, 12) | 0x0000, RGB(10, 13, 18) | 0x0000, RGB(11, 14, 19) | 0x0000, RGB(12, 15, 20) | 0x0000, RGB(13, 17, 21) | 0x8000, RGB(15, 18, 23) | 0x8000, RGB(18, 20, 26) | 0x8000
 };
 
+/**
+* These INCBINs aren't a problem since they only 
+* include graphics data and not things like function pointers,
+* so it can shift around without breaking the code.
+* Eventually they may be replaced with an #include pointing to a 
+* precompiled tileset/tilemap, or a tool will convert the raw png
+* in the parent folder to the tileset.4bpp.lz file.
+* This is the actual image the game uses. Since it's not in the
+* path the INCBIN uses, presumably it's generated at compiletime.
+*/
 static const u32 sMoonlightMansion1Tileset[] = INCBIN_U32("graphics/rooms/backgrounds/moonlight_mansion_1/tileset.4bpp.lz");
+/**
+* This tilemap tells the graphics processor what parts of the 
+* background are in what position. It may be reusing parts of 
+* the background png for things like shading and colors.
+*/
 static const u16 sMoonlightMansion1Tilemap[] = INCBIN_U16("graphics/rooms/backgrounds/moonlight_mansion_1/tilemap.bin");
 
+/**
+* This struct uses the palet, tileset, and tilemap to define 
+* everything needed for the graphics processor to draw the 
+* background. The reason we use .width, .height, etc, is
+* because the original definition of RoomTiledBG explicitly
+* defines each of those attributes. Whenever a discovery
+* is made about what each unk does, it can update every
+* RoomTiledBG simultaneously.
+*/
 const struct RoomTiledBG gMoonlightMansion1RoomTiledBG = {
     .width = 45,
     .height = 20,
